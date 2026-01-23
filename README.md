@@ -1,3 +1,5 @@
+
+<h3 align="center">بسم الله الرحمن الرحيم</h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MusfiqueUsSalehin.MusfiqueUsSalehin" />
 
 <h1 align="center">
