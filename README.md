@@ -1,6 +1,7 @@
 
-<h3 align="center">بسم الله الرحمن الرحيم</h3>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MusfiqueUsSalehin.MusfiqueUsSalehin" />
+<h3 align="center">بسم الله الرحمن الرحيم</h3>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfique+Us+Salehin!;&color=FF0000" />
