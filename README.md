@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MusfiqueUsSalehin.MusfiqueUsSalehin" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfique+Us+Salehin!;&color=FF0000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfique+Us+Salehin!;&color=FF0000" />
 </h1>
 
 <h3 align="center">A Computer Science and Engineering Student , passionate about Software Engineering/AI/Automation</h3>
