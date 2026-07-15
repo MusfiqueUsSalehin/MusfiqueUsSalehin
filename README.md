@@ -7,17 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfique+Us+Salehin!;&color=FF0000" />
 </h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=600&size=24&duration=3000&pause=1000&color=d97706&center=true&vCenter=true&multiline=true&width=800&height=420&lines=Hi%20there%20%F0%9F%91%8B!%20I%20am%20a%20passionate%20Full-Stack%20Developer%3Band%20Open%20Source%20enthusiast.%20I%20love%20building%20scalable%3Bapplications%2C%20designing%20beautiful%20user%20interfaces%2C%3Band%20solving%20complex%20problems%20with%20code.%20Welcome%20to%3Bmy%20GitHub%20profile%2C%20where%20I%20showcase%20my%20latest%3Bprojects%2C%20experiments%2C%20and%20contributions%20to%20the%3Bdeveloper%20community!" alt="Typing SVG" /></a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=MusfiqueUsSalehin&name=Musfique+Us+Salehin&bio=A+Computer+Science+and+Engineering+Student+%2C+passionate+about+Software+Engineering%2FAI%2FAutomation&card_font=%27Courier+New%27%2C+monospace&text_color=%238FFE09&border_style=dashed&border_color=crimson&corner_radius=0&bg_style=glass&font_size=18&ascii_density=classic" alt="Asciify GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/leetcode?username=programmer_exe&font_family=%27Courier+New%27%2C+monospace&text_color=%238FFE09&border_style=dashed&border_color=crimson&corner_radius=0&bg_style=glass&font_size=18" alt="Asciify LeetCode Stats" />
-</div>
+<h2 align="center">
+    A Computer Science and Engineering Student , passionate about Software Engineering/AI/Automation
+</h2>
+
 
 <br/>
 
