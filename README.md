@@ -6,9 +6,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfique+Us+Salehin!;&color=FF0000" />
 </h1>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=MusfiqueUsSalehin&name=Musfique+Us+Salehin&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
-</div>
 
 <h2 align="center">
     A Computer Science and Engineering Student , passionate about Software Engineering/AI/Automation
@@ -42,6 +39,10 @@
 </div>
 
  <hr/>
+
+ <div align="center">
+  <img src="https://asciify.its-apoorv.me/api/card?username=MusfiqueUsSalehin&name=Musfique+Us+Salehin&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
+</div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
